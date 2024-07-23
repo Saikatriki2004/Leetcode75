@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/2e29aa2b-a8dd-49a2-9d27-8056e0e88e00)
 ![image](https://github.com/user-attachments/assets/d8e8d3ee-56f4-4157-924f-56c1a64696f7)
 Ace Coding Interview with 75 Qs
-LeetCode 75
+
 https://leetcode.com/studyplan/leetcode-75/
 
 # LeetCode 75 Study Plan
@@ -59,6 +59,6 @@ Follow us for updates and new additions to the repository. Share your progress a
 ---
 
 Happy coding! 🖥️🚀
-"""
+
 
 
