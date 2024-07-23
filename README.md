@@ -4,9 +4,7 @@
 Ace Coding Interview with 75 Qs
 LeetCode 75
 https://leetcode.com/studyplan/leetcode-75/
-# Generate README.md for LeetCode 75 repository
 
-readme_content = """
 # LeetCode 75 Study Plan
 
 Welcome to the **LeetCode 75** repository! 🚀 Here, we're tackling the 75 essential LeetCode problems that form the cornerstone of coding interviews and algorithm mastery. Whether you're prepping for interviews or looking to sharpen your problem-solving skills, this is the place for you!
