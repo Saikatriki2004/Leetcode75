@@ -63,8 +63,4 @@ Follow us for updates and new additions to the repository. Share your progress a
 Happy coding! 🖥️🚀
 """
 
-# Write to README.md file
-with open("README.md", "w") as file:
-    file.write(readme_content)
 
-print("README.md file has been created!")
